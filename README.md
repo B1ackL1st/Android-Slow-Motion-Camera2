@@ -11,4 +11,6 @@ Since it is very early in development, there might still be ways to optimize the
 ---
 If you want to use .webm format, the encoder should be VP9.
 If you want to use .mp4 format, the encoder should be h264.
+---
+This repository was made as an answer to http://stackoverflow.com/questions/35048208/high-speed-capture-request-android-marshmallow/35603674?noredirect=1#comment59117849_35603674 
 
